@@ -1,0 +1,128 @@
+header{
+    background-color: #98bf21;
+    padding-top:20px;
+    padding-bottom:20px;
+    position: sticky;
+    top: 0px;
+}
+
+.link{
+    color:#ffff;
+    background-color:  #98bf21;
+    width: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration:none;
+    margin: 0px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.link:hover{
+    background-color: #7a991a;
+    margin:0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.h2{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200%;
+    margin-left:10px;
+}
+div.frame{
+    position: static;
+    /* height: auto */
+    margin:5px;
+    padding: 5px;
+    width: 375px;
+    float: left;
+    min-height: 420px;
+    border: 1px solid rgba(181, 177, 177, 0.936);
+}
+
+div.frame img{
+    margin: 5px;
+    width: 365px;
+    border: 1px solid white;
+}
+
+
+.frame img:hover{
+    transform: scale(1);
+    filter: brightness(70%);
+    
+
+}
+   
+
+
+div.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11;
+    color: blue;
+    text-align: left;
+    margin: 5px;
+
+
+
+}
+div.short_description{
+    letter-spacing: 0.5;
+    line-height: 1.5;
+    text-align: justify;
+    margin:5px;
+    width: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.long_description{
+    letter-spacing: 0.5;
+    line-height: 1.5;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div.footer{
+    background-color:  #98bf21;
+    clear: both;
+    margin:0px;
+    text-align: center;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    
+}
+.list{
+    margin-left:50px;
+    letter-spacing: 0.5;
+    line-height: 1.5;
+}
+div.frame2{
+    margin: 5px;
+    padding: 5px;
+    position:static;
+    height: auto;
+    width:270px;
+    float:left;
+    text-align: center;
+    border: 1px solid #cccccc;
+    min-height: 208px;
+    
+}
+div.frame2 img{ 
+    width: 265px;
+    border: 1px soild #ffffff;
+    margin: 5px;
+
+
+}
+
